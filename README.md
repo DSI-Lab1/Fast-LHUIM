@@ -1,3 +1,11 @@
 # Fast-LHUIM
-The code and datasets of the Fast-LHUIM algorithm.
-Fast-LHUIM is the proposed method in the paper "Wei Song, Guibin Ren, Wensheng Gan*. Fast Mining Local High-Utility Itemset, pp 1-22, 2023" which was submitted to the Elsevier Journal of Engineering Applications of Artificial Intelligence.
+This repo hosts the code for paper **"Fast Mining Local High-Utility Itemsets",Engineering Applications of Artificial Intelligence, Wei Song, Guibin Ren, and Wensheng Gan\*, , pp 1-22, 2023**.
+
+## Requirements
+Java programming language.
+
+## Running the program
+A simple way is to run the test file.
+
+## Notes
+If there are any questions, please contact us (Email: wsgan001@gmail.com).
