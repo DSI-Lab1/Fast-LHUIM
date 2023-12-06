@@ -1,5 +1,5 @@
 # Fast-LHUIM
-This repo hosts the code for paper **"Fast Mining Local High-Utility Itemsets",Engineering Applications of Artificial Intelligence, Wei Song, Guibin Ren, and Wensheng Gan\*, , pp 1-22, 2023**.
+This repo hosts the code for paper **"Fast Mining Local High-Utility Itemsets", Engineering Applications of Artificial Intelligence, Wei Song, Guibin Ren, and Wensheng Gan\*, , pp 1-22, 2023**.
 
 ## Requirements
 Java programming language.
