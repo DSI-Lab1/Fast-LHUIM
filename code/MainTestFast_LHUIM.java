@@ -12,14 +12,7 @@ public class MainTestFast_LHUIM {
 	public static void main(String [] arg) throws IOException{
 
 		// the input and output file paths
-//		String input = fileToPath("foodmart_utility_timestamp.txt");
-//		String input = fileToPath("kosarak_utility_timestamp.txt");
-//		String input = fileToPath("T40I10D100K_ts.txt");
 		String input = fileToPath("T10I4D100K_50.txt");
-//		String input = fileToPath("retail_utility_timestamp.txt");
-//		String input = fileToPath("contextLPP.txt");
-//		String input = fileToPath("mushroom_utility_timestamp.txt");
-//		String input = fileToPath("T40I10D100K_ts.txt");
 		String output = ".//output.txt";
 		
 		// the minutil threshold
